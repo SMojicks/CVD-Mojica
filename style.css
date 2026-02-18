@@ -715,7 +715,7 @@ gap: 2rem;
 
 .categories__items span p:last-child {
   margin-left: auto;    
-  color: var(--clr-primary);
+
 }
 
 .recent__items{
